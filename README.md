@@ -1,42 +1,40 @@
-# Task Manager App – Go Task
+# **Task Manager App – Go Task**
 
 A Flutter-based mobile application that helps users organize, manage, and track daily tasks efficiently.
 
-🚀 Features
+---
 
-Add, update, and delete tasks
+## **🚀 Features**
+> - Add, update, and delete tasks  
+> - Categorize tasks as **New, Inprogress, Completed, or Cancelled**  
+> - User authentication (login, registration)  
+> - Profile update with image upload  
+> - Responsive and clean UI  
 
-Categorize tasks as New, Inprogress, Completed, or Cancelled
+---
 
-User authentication (login, registration)
+## **🛠️ Tech Stack**
 
-Profile update with image upload
+**Frontend (App Development):**  
+> - Flutter & Dart  
+> - Android Studio  
 
-Responsive and clean UI
+**Backend (REST API):**  
+> - **Language:** PHP (Core PHP using PDO)  
+> - **Database:** MySQL  
+> - **Authentication:** Firebase PHP-JWT (HS256 encryption)  
+> - **Email Service:** PHPMailer (for sending OTPs via Gmail SMTP)  
+> - **Dependency Management:** Composer  
 
-🛠️ Tech Stack
+---
 
-Frontend (App Development):
+## **⚙️ State Management**
+> Uses `setState` and `FutureBuilder` for dynamic UI updates and API responses  
 
-Flutter & Dart
+---
 
-Android Studio
+## **📸 Screenshots**
 
-Backend (REST API):
-
-Language: PHP (Core PHP using PDO)
-
-Database: MySQL
-
-Authentication: Firebase PHP-JWT (HS256 encryption)
-
-Email Service: PHPMailer (for sending OTPs via Gmail SMTP)
-
-Dependency Management: Composer
-
-⚙️ State Management
-
-Uses setState and FutureBuilder for dynamic UI updates and API responses
 ![GOTAsk_App_with_localApi](https://github.com/user-attachments/assets/97c15ec1-64b9-4bf0-b681-c1333ec701c0)
 
 
