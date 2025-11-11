@@ -2,16 +2,12 @@
 
 A Flutter-based mobile application that helps users organize, manage, and track daily tasks efficiently.
 
----
-
 ## **🚀 Features**
 > - Add, update, and delete tasks  
 > - Categorize tasks as **New, Inprogress, Completed, or Cancelled**  
 > - User authentication (login, registration)  
 > - Profile update with image upload  
 > - Responsive and clean UI  
-
----
 
 ## **🛠️ Tech Stack**
 
@@ -26,12 +22,10 @@ A Flutter-based mobile application that helps users organize, manage, and track 
 > - **Email Service:** PHPMailer (for sending OTPs via Gmail SMTP)  
 > - **Dependency Management:** Composer  
 
----
 
 ## **⚙️ State Management**
 > Uses `setState` and `FutureBuilder` for dynamic UI updates and API responses  
 
----
 
 ## **📸 Screenshots**
 
@@ -52,3 +46,4 @@ A Flutter-based mobile application that helps users organize, manage, and track 
 <img width="175" height="364" alt="Screenshot_78" src="https://github.com/user-attachments/assets/a37407e8-daa0-4400-bc9e-0c5e4672ca31" />
 <img width="173" height="368" alt="Screenshot_79" src="https://github.com/user-attachments/assets/a20f190d-e606-4cae-b039-7561ced04d20" />
 <img width="172" height="362" alt="Screenshot_80" src="https://github.com/user-attachments/assets/0066e335-095a-40f2-8c46-b305bbce694c" />
+<img width="170" height="359" alt="Screenshot_81" src="https://github.com/user-attachments/assets/7c653ded-97f7-4562-b3e2-466f0b93e551" />
