@@ -16,20 +16,30 @@ Responsive and clean UI
 
 🛠️ Tech Stack
 
-Flutter & Dart – App development
+Frontend (App Development):
 
-REST API (PHP & MySQL) – Backend integration
-  Language: PHP (Core PHP using PDO)
-  Database: MySQL
-  Authentication: Firebase PHP-JWT (HS256 encryption)
-  Mailing: PHPMailer (for sending OTPs via Gmail SMTP)
-  Dependency Management: Composer
+Flutter & Dart
 
-Android Studio – Development environment
+Android Studio
+
+Backend (REST API):
+
+Language: PHP (Core PHP using PDO)
+
+Database: MySQL
+
+Authentication: Firebase PHP-JWT (HS256 encryption)
+
+Email Service: PHPMailer (for sending OTPs via Gmail SMTP)
+
+Dependency Management: Composer
 
 ⚙️ State Management
 
-Uses setState and FutureBuilder for dynamic data updates and API responses.
+Uses setState and FutureBuilder for dynamic UI updates and API responses
+![GOTAsk_App_with_localApi](https://github.com/user-attachments/assets/97c15ec1-64b9-4bf0-b681-c1333ec701c0)
+
+
 <img width="172" height="359" alt="Screenshot_67" src="https://github.com/user-attachments/assets/6915704d-1792-4c31-a5d4-cd95a454744d" />
 <img width="173" height="361" alt="Screenshot_68" src="https://github.com/user-attachments/assets/23a8392e-eddf-4bdb-b44f-1192315998ed" />
 <img width="178" height="361" alt="Screenshot_69" src="https://github.com/user-attachments/assets/452833d5-e741-4177-966b-14edd38e7f7f" />
@@ -44,4 +54,3 @@ Uses setState and FutureBuilder for dynamic data updates and API responses.
 <img width="175" height="364" alt="Screenshot_78" src="https://github.com/user-attachments/assets/a37407e8-daa0-4400-bc9e-0c5e4672ca31" />
 <img width="173" height="368" alt="Screenshot_79" src="https://github.com/user-attachments/assets/a20f190d-e606-4cae-b039-7561ced04d20" />
 <img width="172" height="362" alt="Screenshot_80" src="https://github.com/user-attachments/assets/0066e335-095a-40f2-8c46-b305bbce694c" />
-![GOTAsk_App_with_localApi](https://github.com/user-attachments/assets/97c15ec1-64b9-4bf0-b681-c1333ec701c0)
